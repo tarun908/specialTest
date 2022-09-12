@@ -1,0 +1,89 @@
+body{
+    background-color:beige;
+}
+
+.header-log{
+    display: flex;
+    flex-direction:column;
+    height: 50px;
+}
+#logo{
+    width:100%;
+    background-color: white;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    height: 50vh;
+  
+}
+.flex-container-profile{
+    width:90%;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    margin-left:20px ;
+    background-color: white;
+    padding-left: 100px;
+}
+.individual-profile-images{
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 120px;
+}
+.individiual-profile-name{
+   color:black
+}
+.flex-container-section2{
+    width:65%;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    margin-left:100px ;
+    background-color: white;
+    padding-left: 100px;
+    height: 350px;
+   
+}
+.nav{
+    width:100%;
+    background-color: white;
+    text-align:center;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.individual-profile-image1{
+    height: 300px;
+}
+.flex-container-detail-section{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    width: 100px;
+    height: 300px;
+    margin-left: 30px;
+}
+
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+    background-color:orange;
+    margin-left: 50px;
+}
+
+.flex-contaner-section3{
+    width: 50%;
+    margin-top: 50px;
+    height: 300px;
+    margin-left: 300px;
+    background-color: aliceblue;
+
+}
